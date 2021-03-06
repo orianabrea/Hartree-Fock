@@ -1,5 +1,4 @@
 #! python
-# OPEN TO NAME
 
 import sys #system module
 import numpy as np #numerical python, "np" is a standard-arbitrary abbreviation for numpy
